@@ -1,0 +1,18 @@
+C:\Users\Ace\AppData\Local\Temporary Projects\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\Ace\AppData\Local\Temporary Projects\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\Ace\AppData\Local\Temporary Projects\Hello_World\bin\Debug\Hello_World.xml
+C:\Users\Ace\AppData\Local\Temporary Projects\Hello_World\obj\x86\Debug\Hello_World.Form1.resources
+C:\Users\Ace\AppData\Local\Temporary Projects\Hello_World\obj\x86\Debug\Hello_World.Resources.resources
+C:\Users\Ace\AppData\Local\Temporary Projects\Hello_World\obj\x86\Debug\Hello_World.vbproj.GenerateResource.Cache
+C:\Users\Ace\AppData\Local\Temporary Projects\Hello_World\obj\x86\Debug\Hello_World.exe
+C:\Users\Ace\AppData\Local\Temporary Projects\Hello_World\obj\x86\Debug\Hello_World.xml
+C:\Users\Ace\AppData\Local\Temporary Projects\Hello_World\obj\x86\Debug\Hello_World.pdb
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.exe
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.xml
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.pdb
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.xml
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.Form1.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.Resources.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.vbproj.GenerateResource.Cache
